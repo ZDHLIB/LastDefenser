@@ -1,0 +1,884 @@
+Using pre-set license
+Desktop is 1920 x 2160 @ 60 Hz
+
+ COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/home/zac/Documents/Repositories/LastDefenser/LastDefenser2
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+34081
+Successfully changed project path to: /home/zac/Documents/Repositories/LastDefenser/LastDefenser2
+/home/zac/Documents/Repositories/LastDefenser/LastDefenser2
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 155.84 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.8f1 (507919d4fff5)
+[Subsystems] Discovering subsystems at path /home/zac/Downloads/Unity/Installations/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/zac/Documents/Repositories/LastDefenser/LastDefenser2/Assets
+GLX Extensions: GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_import_context GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
+Renderer: Mesa Intel(R) HD Graphics 520 (SKL GT2)
+Vendor:   Intel
+Version:  4.6 (Core Profile) Mesa 20.2.6
+GLES:     0
+ GL_3DFX_texture_compression_FXT1 GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB
+_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_fragment_shader_interlock GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_po
+int_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier G
+L_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewpor
+t_array GL_ATI_blend_equation_separate GL_ATI_texture_float GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_shader_framebuffer_fetch GL_EXT_shader_framebuffer_fetch_non_coherent GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback G
+L_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_INTEL_conservative_rasterization GL_INTEL_performance_query GL_INTEL_shader_atomic_float_minmax GL_INTEL_shader_integer_functions2 GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_fragment_shader_interlock GL_NV_packed_depth_stencil GL_NV_texture_barrier GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 906542224
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Initialize mono
+Mono path[0] = '/home/zac/Downloads/Unity/Installations/2020.3.8f1/Editor/Data/Managed'
+Mono path[1] = '/home/zac/Downloads/Unity/Installations/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/home/zac/Downloads/Unity/Installations/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56840
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/zac/Downloads/Unity/Installations/2020.3.8f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.003877 seconds.
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 228.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  7.655 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002238 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 2.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.577 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Launched and connected shader compiler UnityShaderCompiler after 0.10 seconds
+Refreshing native plugins compatible for Editor in 1.48 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1649 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 185.5 MB.
+System memory in use after: 185.5 MB.
+
+Unloading 21 unused Assets to reduce memory usage. Loaded Objects now: 2122.
+Total: 21.439161 ms (FindLiveObjects: 0.935389 ms CreateObjectMapping: 0.340056 ms MarkObjects: 19.255002 ms  DeleteObjects: 0.902708 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/CameraController.cs
+  artifactKey: Guid(2a7ac9fca93e0b506bc23246f20080e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/CameraController.cs using Guid(2a7ac9fca93e0b506bc23246f20080e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d3f556c9fd3507a264bbdda2f059623') in 0.046706 seconds
+  Import took 0.073418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1708.466528 seconds.
+  path: Assets/BuildManager.cs
+  artifactKey: Guid(1c84e865d7c9f78169fa7692eed85422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BuildManager.cs using Guid(1c84e865d7c9f78169fa7692eed85422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfdbdffba201e3aeff5089922607a3cd') in 0.001374 seconds
+  Import took 0.007106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002320 seconds.
+  path: Assets/BuildManager.cs
+  artifactKey: Guid(1c84e865d7c9f78169fa7692eed85422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BuildManager.cs using Guid(1c84e865d7c9f78169fa7692eed85422) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfdbdffba201e3aeff5089922607a3cd') in 0.001896 seconds
+  Import took 0.007257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 955.941465 seconds.
+  path: Assets/ProBuilder Data
+  artifactKey: Guid(d7959e9c3cbe0af8fbf0231a89a999bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ProBuilder Data using Guid(d7959e9c3cbe0af8fbf0231a89a999bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65bc582cd3d7719041b2810a77fe8a30') in 0.020191 seconds
+  Import took 0.026879 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001271 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.458 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.82 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1611 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.4 MB.
+System memory in use after: 181.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2125.
+Total: 6.475703 ms (FindLiveObjects: 0.905600 ms CreateObjectMapping: 0.300054 ms MarkObjects: 5.168647 ms  DeleteObjects: 0.097310 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 282.409081 seconds.
+  path: Assets/JMO Assets
+  artifactKey: Guid(eeb66f22d4ff2718aada868f9c5d5386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets using Guid(eeb66f22d4ff2718aada868f9c5d5386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6e3730b6ead7097782dc3ad512baf01') in 0.006605 seconds
+  Import took 0.017227 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002039 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 1.31 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.588 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 1.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1611 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.5 MB.
+System memory in use after: 181.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2128.
+Total: 7.409794 ms (FindLiveObjects: 0.816422 ms CreateObjectMapping: 0.295134 ms MarkObjects: 6.189393 ms  DeleteObjects: 0.101941 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001188 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.279 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.5 MB.
+System memory in use after: 181.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2132.
+Total: 3.234633 ms (FindLiveObjects: 0.326711 ms CreateObjectMapping: 0.113250 ms MarkObjects: 2.735970 ms  DeleteObjects: 0.056635 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 17503.686489 seconds.
+  path: Assets/Tank.cs
+  artifactKey: Guid(a04250c427a582f28a58c62300b764d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tank.cs using Guid(a04250c427a582f28a58c62300b764d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e8641914b6d68010af5e6c3c7226961') in 0.005517 seconds
+  Import took 0.020555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.085804 seconds.
+  path: Assets/Tank.cs
+  artifactKey: Guid(a04250c427a582f28a58c62300b764d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tank.cs using Guid(a04250c427a582f28a58c62300b764d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e8641914b6d68010af5e6c3c7226961') in 0.001737 seconds
+  Import took 0.011446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.386151 seconds.
+  path: Assets/Shop.cs
+  artifactKey: Guid(4727588390042b838a4374745a351b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shop.cs using Guid(4727588390042b838a4374745a351b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ba509383f9719a7e74c4ad726516529') in 0.031280 seconds
+  Import took 0.038715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008346 seconds.
+  path: Assets/Shop.cs
+  artifactKey: Guid(4727588390042b838a4374745a351b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shop.cs using Guid(4727588390042b838a4374745a351b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ba509383f9719a7e74c4ad726516529') in 0.002092 seconds
+  Import took 0.015936 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001358 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 1.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.244 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.5 MB.
+System memory in use after: 181.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2135.
+Total: 3.243228 ms (FindLiveObjects: 0.315511 ms CreateObjectMapping: 0.100686 ms MarkObjects: 2.768537 ms  DeleteObjects: 0.056487 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 562.008402 seconds.
+  path: Assets/Shop.cs
+  artifactKey: Guid(4727588390042b838a4374745a351b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Shop.cs using Guid(4727588390042b838a4374745a351b4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '224fd064909bc199a51e3e6ab0e5b93c') in 0.003799 seconds
+  Import took 0.007456 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003801 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.91 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.239 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.5 MB.
+System memory in use after: 181.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2138.
+Total: 3.467871 ms (FindLiveObjects: 0.561883 ms CreateObjectMapping: 0.116350 ms MarkObjects: 2.729776 ms  DeleteObjects: 0.058197 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001366 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.238 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 1.06 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.5 MB.
+System memory in use after: 181.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2141.
+Total: 5.533762 ms (FindLiveObjects: 0.700213 ms CreateObjectMapping: 0.278800 ms MarkObjects: 4.397381 ms  DeleteObjects: 0.153459 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001364 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.326 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.6 MB.
+System memory in use after: 181.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2144.
+Total: 5.017592 ms (FindLiveObjects: 0.454457 ms CreateObjectMapping: 0.165902 ms MarkObjects: 4.299259 ms  DeleteObjects: 0.095335 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001584 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.291 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.6 MB.
+System memory in use after: 181.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2147.
+Total: 3.838144 ms (FindLiveObjects: 0.365815 ms CreateObjectMapping: 0.121755 ms MarkObjects: 3.279008 ms  DeleteObjects: 0.068561 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000966 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 1.04 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.880 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.95 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 181.6 MB.
+System memory in use after: 181.6 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2150.
+Total: 5.389464 ms (FindLiveObjects: 0.866082 ms CreateObjectMapping: 0.232118 ms MarkObjects: 4.204398 ms  DeleteObjects: 0.084655 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 2424.229524 seconds.
+  path: Assets/Bullets/Prefabs/Bullet_BK.prefab
+  artifactKey: Guid(f7709b2fbc64d16e4a08aff9e2704745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullets/Prefabs/Bullet_BK.prefab using Guid(f7709b2fbc64d16e4a08aff9e2704745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e27c98ab232bbec75d5d95ac5f374bed') in 0.421543 seconds
+  Import took 0.430205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.664293 seconds.
+  path: Assets/Bullets/Prefabs/Bullet.prefab
+  artifactKey: Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullets/Prefabs/Bullet.prefab using Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a634a144da85330738a33b9586e75a8c') in 0.149253 seconds
+  Import took 0.156896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.375249 seconds.
+  path: Assets/Bullets/Prefabs/Bullet.prefab
+  artifactKey: Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullets/Prefabs/Bullet.prefab using Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7114b44fc66399858160c165eeb53c55') in 0.049782 seconds
+  Import took 0.057600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004952 seconds.
+  path: Assets/Bullets/Prefabs/Bullet.prefab
+  artifactKey: Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullets/Prefabs/Bullet.prefab using Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7114b44fc66399858160c165eeb53c55') in 0.038030 seconds
+  Import took 0.046405 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 40.257782 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Explosion LandMine.prefab
+  artifactKey: Guid(6890a03af913b874092fbb1e8337747d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Explosion LandMine.prefab using Guid(6890a03af913b874092fbb1e8337747d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b31e5c5361d694929e6240493a8876d6') in 0.033156 seconds
+  Import took 0.044434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Explosion Simple.prefab
+  artifactKey: Guid(7075bd5fe1480184695a32611c15da57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Explosion Simple.prefab using Guid(7075bd5fe1480184695a32611c15da57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b00303cccc60e6f95ccd7d24612c1eb') in 0.033112 seconds
+  Import took 0.043161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000553 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Explosion Small.prefab
+  artifactKey: Guid(5332791ebce075d4a9e56f4581e7fb47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Explosion Small.prefab using Guid(5332791ebce075d4a9e56f4581e7fb47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baa46e07d8627565c1434246860d426e') in 0.012813 seconds
+  Import took 0.023954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmoke Big Alt.prefab
+  artifactKey: Guid(e0609132424a24844b1d53ad3d704fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmoke Big Alt.prefab using Guid(e0609132424a24844b1d53ad3d704fd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb7b51c9ddee9cfb0bf427ba293e4959') in 0.026653 seconds
+  Import took 0.035965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Explosion.prefab
+  artifactKey: Guid(b46890100828db6429ff69c322b45893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Explosion.prefab using Guid(b46890100828db6429ff69c322b45893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bf564ed59b7b7816fecf2cd74a4e266') in 0.009102 seconds
+  Import took 0.033412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmoke Small.prefab
+  artifactKey: Guid(2e7e92bc7175b744ea40878dedfa79e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmoke Small.prefab using Guid(2e7e92bc7175b744ea40878dedfa79e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e08535c907fbdfc58bad6ab9fbe7ed4') in 0.007753 seconds
+  Import took 0.014754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmoke.prefab
+  artifactKey: Guid(4575df893a6e3f64a8283dee38413a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmoke.prefab using Guid(4575df893a6e3f64a8283dee38413a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c358def4c6ed203ccc00b6e55a7463d7') in 0.020787 seconds
+  Import took 0.025468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmoke Big.prefab
+  artifactKey: Guid(1dbc518224e49f34095aab42fe05751a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmoke Big.prefab using Guid(1dbc518224e49f34095aab42fe05751a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0cbce2a0d2160ee3a2b95f1b9e617ddc') in 0.006430 seconds
+  Import took 0.011946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmokeGround Big.prefab
+  artifactKey: Guid(06736895ea0a4ff408d25e6684dce797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmokeGround Big.prefab using Guid(06736895ea0a4ff408d25e6684dce797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ad8c8c6d5cbfc322787790b4782c407') in 0.009753 seconds
+  Import took 0.015906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmokeGround Small.prefab
+  artifactKey: Guid(7c442b9b6852b8a4f93306f3d154d471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmokeGround Small.prefab using Guid(7c442b9b6852b8a4f93306f3d154d471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a385c80ad3d9fb18fa341031d833b84d') in 0.007082 seconds
+  Import took 0.012175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmokeGround.prefab
+  artifactKey: Guid(93485fd5fc2ccf2439cb3239186f6382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmokeGround.prefab using Guid(93485fd5fc2ccf2439cb3239186f6382) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2ad1fc85f323d8f5fabfc3ab4afb938') in 0.005009 seconds
+  Import took 0.011891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Nuke.prefab
+  artifactKey: Guid(6ecf76dc4f268d340b2666896a954bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Nuke.prefab using Guid(6ecf76dc4f268d340b2666896a954bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb6ffc9c0e33e9d1b966238bfe3615a') in 0.006875 seconds
+  Import took 0.012754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmokeGround Big Alt.prefab
+  artifactKey: Guid(3364c97de68d3a147af572d1c71c6455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_ExplosiveSmokeGround Big Alt.prefab using Guid(3364c97de68d3a147af572d1c71c6455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '237d7fba815ef44b9e50be4c2655096b') in 0.005447 seconds
+  Import took 0.011894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Explosion StarSmoke.prefab
+  artifactKey: Guid(a49596ebf788acd4ab1281bffea444b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/_Effects/Explosions/WFX_Explosion StarSmoke.prefab using Guid(a49596ebf788acd4ab1281bffea444b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6680b4d90ca09654792e3980eeffa0b') in 0.012871 seconds
+  Import took 0.018135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.519102 seconds.
+  path: Assets/JMO Assets/WarFX/Desktop/Materials/Misc/WFX_M_StretchPalet.mat
+  artifactKey: Guid(b0c7cf51d3fecb446ab93bf854419715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/JMO Assets/WarFX/Desktop/Materials/Misc/WFX_M_StretchPalet.mat using Guid(b0c7cf51d3fecb446ab93bf854419715) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4a30a2ab1f535f40008d4ba05b96ec0') in 0.064989 seconds
+  Import took 0.070137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.675684 seconds.
+  path: Assets/Bullets/Prefabs/Bullet.prefab
+  artifactKey: Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullets/Prefabs/Bullet.prefab using Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66b6ae0804b88a721dbd1cacb79070c1') in 0.056069 seconds
+  Import took 0.064230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.589591 seconds.
+  path: Assets/Bullets/Prefabs/Bullet.prefab
+  artifactKey: Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullets/Prefabs/Bullet.prefab using Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ef6de3d78b480c21a1426dd83e50bc0') in 0.053631 seconds
+  Import took 0.061124 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001338 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 1.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.447 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 183.3 MB.
+System memory in use after: 183.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2194.
+Total: 3.537410 ms (FindLiveObjects: 0.404439 ms CreateObjectMapping: 0.141321 ms MarkObjects: 2.919230 ms  DeleteObjects: 0.070442 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 98.458605 seconds.
+  path: Assets/Bullets/Prefabs
+  artifactKey: Guid(d15d4aca212face4abbbc8240f62793a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullets/Prefabs using Guid(d15d4aca212face4abbbc8240f62793a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afc2ba46bee4644f8699b866c61fa8c4') in 0.008685 seconds
+  Import took 0.014810 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001611 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.334 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.75 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 183.3 MB.
+System memory in use after: 183.3 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2197.
+Total: 7.305997 ms (FindLiveObjects: 0.696774 ms CreateObjectMapping: 0.275378 ms MarkObjects: 6.129128 ms  DeleteObjects: 0.199844 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 13.758210 seconds.
+  path: Assets/Artillery Tank/Tank.prefab
+  artifactKey: Guid(d46bd5347530145599a1cc012598983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artillery Tank/Tank.prefab using Guid(d46bd5347530145599a1cc012598983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9888c1b5df76190884db3113236002f') in 0.996867 seconds
+  Import took 1.006884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.851039 seconds.
+  path: Assets/Artillery Tank/Tank.prefab
+  artifactKey: Guid(d46bd5347530145599a1cc012598983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artillery Tank/Tank.prefab using Guid(d46bd5347530145599a1cc012598983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9888c1b5df76190884db3113236002f') in 0.121663 seconds
+  Import took 0.129511 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001204 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.809 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 183.3 MB.
+System memory in use after: 183.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2201.
+Total: 3.336177 ms (FindLiveObjects: 0.367717 ms CreateObjectMapping: 0.129912 ms MarkObjects: 2.779927 ms  DeleteObjects: 0.056648 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 60.116461 seconds.
+  path: Assets/Bullets/Prefabs/Bullet.prefab
+  artifactKey: Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullets/Prefabs/Bullet.prefab using Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7240a975aa713bc4444b2796c825ca2e') in 0.101504 seconds
+  Import took 0.106387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.141557 seconds.
+  path: Assets/Bullets/Prefabs/Bullet.prefab
+  artifactKey: Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullets/Prefabs/Bullet.prefab using Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7240a975aa713bc4444b2796c825ca2e') in 0.031860 seconds
+  Import took 0.036996 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001332 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.752 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 183.3 MB.
+System memory in use after: 183.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2205.
+Total: 3.445827 ms (FindLiveObjects: 0.360525 ms CreateObjectMapping: 0.132643 ms MarkObjects: 2.888871 ms  DeleteObjects: 0.061687 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 23.751324 seconds.
+  path: Assets/Bullets/Prefabs/Bullet.prefab
+  artifactKey: Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullets/Prefabs/Bullet.prefab using Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '596150a6534b00c97bdfc494c4c778bd') in 0.098288 seconds
+  Import took 0.103062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.010570 seconds.
+  path: Assets/Bullets/Prefabs/Bullet.prefab
+  artifactKey: Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullets/Prefabs/Bullet.prefab using Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '596150a6534b00c97bdfc494c4c778bd') in 0.045221 seconds
+  Import took 0.051546 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001233 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.501 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 183.3 MB.
+System memory in use after: 183.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2209.
+Total: 3.804453 ms (FindLiveObjects: 0.551010 ms CreateObjectMapping: 0.194051 ms MarkObjects: 2.999354 ms  DeleteObjects: 0.057427 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 96.648286 seconds.
+  path: Assets/Bullets/Prefabs/Bullet.prefab
+  artifactKey: Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullets/Prefabs/Bullet.prefab using Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ad838c72e00f44a620982e7b5467bf4') in 0.158884 seconds
+  Import took 0.165187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.712564 seconds.
+  path: Assets/Artillery Tank/Tank.prefab
+  artifactKey: Guid(d46bd5347530145599a1cc012598983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artillery Tank/Tank.prefab using Guid(d46bd5347530145599a1cc012598983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91de08278759ede9da8162ccbda83fb4') in 0.192237 seconds
+  Import took 0.204767 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001268 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.469 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 183.4 MB.
+System memory in use after: 183.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2213.
+Total: 5.002502 ms (FindLiveObjects: 0.724984 ms CreateObjectMapping: 0.189126 ms MarkObjects: 4.016604 ms  DeleteObjects: 0.069705 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 98.135443 seconds.
+  path: Assets/Bullets/Prefabs/Bullet Variant.prefab
+  artifactKey: Guid(a29d6b2a1db2b3ec3a7438c399d139f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullets/Prefabs/Bullet Variant.prefab using Guid(a29d6b2a1db2b3ec3a7438c399d139f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25cf458443ddb934f41ec6895d90f728') in 0.181431 seconds
+  Import took 0.187576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.893956 seconds.
+  path: Assets/Bullets/Prefabs/Bullet.prefab
+  artifactKey: Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullets/Prefabs/Bullet.prefab using Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f881a6e974efc3ed8114a44a180cc61c') in 0.043008 seconds
+  Import took 0.050493 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.225497 seconds.
+  path: Assets/Bullets/Prefabs/Bullet.prefab
+  artifactKey: Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullets/Prefabs/Bullet.prefab using Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aec767cddce948a0f25712041b9ad059') in 0.051201 seconds
+  Import took 0.062439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.607468 seconds.
+  path: Assets/Artillery Tank/Tank.prefab
+  artifactKey: Guid(d46bd5347530145599a1cc012598983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artillery Tank/Tank.prefab using Guid(d46bd5347530145599a1cc012598983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c30aaa0c989aa64f31fa248b6af2c81f') in 0.216992 seconds
+  Import took 0.229989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.710942 seconds.
+  path: Assets/Artillery Tank/Tank.prefab
+  artifactKey: Guid(d46bd5347530145599a1cc012598983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artillery Tank/Tank.prefab using Guid(d46bd5347530145599a1cc012598983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69b9e79a8ec46ec50b2b7ea7167c487c') in 0.210125 seconds
+  Import took 0.231080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017055 seconds.
+  path: Assets/Artillery Tank/Tank.prefab
+  artifactKey: Guid(d46bd5347530145599a1cc012598983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artillery Tank/Tank.prefab using Guid(d46bd5347530145599a1cc012598983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69b9e79a8ec46ec50b2b7ea7167c487c') in 0.141096 seconds
+  Import took 0.152972 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.606134 seconds.
+  path: Assets/Artillery Tank/Tank.prefab
+  artifactKey: Guid(d46bd5347530145599a1cc012598983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artillery Tank/Tank.prefab using Guid(d46bd5347530145599a1cc012598983b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f214d8f510e94d7f8a3b8edb9437c668') in 0.148066 seconds
+  Import took 0.158075 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001340 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 1.32 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.748 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 183.4 MB.
+System memory in use after: 183.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2217.
+Total: 3.297848 ms (FindLiveObjects: 0.343094 ms CreateObjectMapping: 0.128865 ms MarkObjects: 2.764887 ms  DeleteObjects: 0.059226 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001361 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.585 seconds
+Platform modules already initialized, skipping
+Switching build target platform(24) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Shader 'WFX/Transparent Specular': fallback shader 'Particles/Alpha Blended' not found
+Shader 'WFX/Transparent Diffuse': fallback shader 'Particles/Alpha Blended' not found
+Refreshing native plugins compatible for Editor in 2.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1612 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 183.4 MB.
+System memory in use after: 183.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2220.
+Total: 3.981496 ms (FindLiveObjects: 0.347603 ms CreateObjectMapping: 0.122823 ms MarkObjects: 3.418714 ms  DeleteObjects: 0.090829 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 628.038305 seconds.
+  path: Assets/Bullets/Prefabs/Bullet.prefab
+  artifactKey: Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Bullets/Prefabs/Bullet.prefab using Guid(10abc6c6c187a8be69cf0cbb6732bf82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb641124de8ac51045d01412645f301c') in 0.127888 seconds
+  Import took 0.134867 seconds .
+
