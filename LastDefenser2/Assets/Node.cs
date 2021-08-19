@@ -32,12 +32,18 @@ public class Node : MonoBehaviour
             return;
         }
 
-        GameObject tankToBuild = BuildManager.instance.GetTankToBuild();
+        BuildManager.instance.Build(this);
+    }
 
-        if(tankToBuild == null) return;
+    public void SetTank(GameObject obj) {
+        tank = obj;
+    }
 
-        Instantiate(tankToBuild, transform.position + positionOffset, transform.rotation);   
+    public Vector3 GetPosition() {
+        return transform.position + positionOffset;
+    }
 
-        BuildManager.instance.SetTankToBuild(null);
+    public Quaternion GetRotation() {
+        return transform.rotation;
     }
 }
